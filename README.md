@@ -14,22 +14,28 @@ Initially focusing on work by Bill McNamee, Kerrsplat is intended to grow as a p
 
 ## Scope
 
-**Independent Publishing**  
+### Independent Publishing
+
 Developing and publishing books, photography collections, zines, fiction, and other written and creative works through an independent publishing model.
 
-**Photography & Visual Storytelling**  
+### Photography & Visual Storytelling
+
 Developing photography-based projects in which image selection, sequencing, presentation, and design contribute to the finished publication.
 
-**Writing & Editorial Development**  
+### Writing & Editorial Development
+
 Developing original writing and editorial content for books and other publications, including project development, editing, and preparation for publication.
 
-**Book Design & Production**  
+### Book Design & Production
+
 Managing the creative and production process from concept and layout through image preparation, proofing, print production, and release.
 
-**Creative Technology**  
+### Creative Technology
+
 Using digital publishing tools, creative workflows, and assistive and generative AI, where appropriate, to support editorial development, design, production, and publishing.
 
-**Creative Independence**  
+### Creative Independence
+
 Maintaining editorial and creative control over the work published under the Kerrsplat name, with an emphasis on originality, transparency, and independence from outside commercial influence.
 
 ## Highlights
